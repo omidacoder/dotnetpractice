@@ -1,0 +1,14 @@
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.AssemblyInfo.cs
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\bin\Debug\net9.0\DotnetPractice.DataAccess.deps.json
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\bin\Debug\net9.0\DotnetPractice.DataAccess.runtimeconfig.json
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\bin\Debug\net9.0\DotnetPractice.DataAccess.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\bin\Debug\net9.0\DotnetPractice.DataAccess.pdb
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\refint\DotnetPractice.DataAccess.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.pdb
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.genruntimeconfig.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\ref\DotnetPractice.DataAccess.dll

@@ -1,0 +1,15 @@
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPractice.Common.csproj.AssemblyReference.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPractice.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPractice.Common.AssemblyInfoInputs.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPractice.Common.AssemblyInfo.cs
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPractice.Common.csproj.CoreCompileInputs.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\bin\Debug\net9.0\DotnetPractice.Common.deps.json
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\bin\Debug\net9.0\DotnetPractice.Common.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\bin\Debug\net9.0\DotnetPractice.Common.pdb
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\bin\Debug\net9.0\DotnetPractice.DataAccess.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\bin\Debug\net9.0\DotnetPractice.DataAccess.pdb
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPr.B36C43E7.Up2Date
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPractice.Common.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\refint\DotnetPractice.Common.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPractice.Common.pdb
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\ref\DotnetPractice.Common.dll

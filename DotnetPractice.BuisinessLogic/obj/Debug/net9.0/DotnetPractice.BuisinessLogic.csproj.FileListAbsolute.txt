@@ -1,0 +1,17 @@
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPractice.BuisinessLogic.csproj.AssemblyReference.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPractice.BuisinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPractice.BuisinessLogic.AssemblyInfoInputs.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPractice.BuisinessLogic.AssemblyInfo.cs
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPractice.BuisinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\bin\Debug\net9.0\DotnetPractice.BuisinessLogic.deps.json
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\bin\Debug\net9.0\DotnetPractice.BuisinessLogic.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\bin\Debug\net9.0\DotnetPractice.BuisinessLogic.pdb
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\bin\Debug\net9.0\DotnetPractice.Common.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\bin\Debug\net9.0\DotnetPractice.DataAccess.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\bin\Debug\net9.0\DotnetPractice.DataAccess.pdb
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\bin\Debug\net9.0\DotnetPractice.Common.pdb
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPr.FBBE7EB5.Up2Date
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPractice.BuisinessLogic.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\refint\DotnetPractice.BuisinessLogic.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPractice.BuisinessLogic.pdb
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\ref\DotnetPractice.BuisinessLogic.dll
