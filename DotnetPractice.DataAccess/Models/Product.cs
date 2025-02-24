@@ -19,6 +19,9 @@ namespace DotnetPractice.DataAccess.Models
         [Display(Name = "تعداد موجود در انبار")]
         [Range(0 , 100000 , ErrorMessage = "{0} باید عددی بزرگتر از 0 و کوچکتر از 100000 باشد")]
         public required int AvailableCount { get; set; }
+        [Display(Name = "قیمت")]
+        [Range(0, 100000000, ErrorMessage = "{0} باید عددی بزرگتر از 0 و کوچکتر از 100000000 باشد")]
+        public required double Price { get; set; }
         [Display(Name = "آدرس تصویر")]
         [Url(ErrorMessage = "{0} باید آدرس معتبر باشد")]
         public string? photoUrl { get; set; }

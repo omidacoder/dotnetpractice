@@ -15,6 +15,7 @@ namespace DotnetPractice.DataAccess
 {
     public class PostgresDbContext : IdentityDbContext<User, Role, string>
     {
+        public static Action<DbContextOptionsBuilder> Connection = (c => c.UseNpgsql(@"Server=localhost;Port=5432;Database=dotnetpracticedb;User Id=postgres;Password=1234"));
         public PostgresDbContext(DbContextOptions<PostgresDbContext> options) : base(options)
         {
             AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);

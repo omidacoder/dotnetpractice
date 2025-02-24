@@ -20,7 +20,7 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddSwaggerGen();
 // Adding Services
-builder.Services.AddDbContext<PostgresDbContext>(c => c.UseNpgsql(@"Server=localhost;Port=5432;Database=dotnetpracticedb;User Id=postgres;Password=1234"));
+builder.Services.AddDbContext<PostgresDbContext>(PostgresDbContext.Connection);
 builder.Services.AddIdentity<User, Role>(options =>
 {
     options.Password.RequireDigit = false;
@@ -72,7 +72,11 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 
 }
-
+app.UseCors(builder => {
+    builder.AllowAnyOrigin();
+    builder.AllowAnyMethod();
+    builder.AllowAnyHeader();
+});
 app.UseHttpsRedirection();
 app.UseSwagger();
 app.UseSwaggerUI();

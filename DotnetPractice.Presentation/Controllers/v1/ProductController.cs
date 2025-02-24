@@ -24,12 +24,12 @@ namespace DotnetPractice.Presentation.Controllers.v1
         }
         [HttpGet("/user/products")]
         [Authorize(Policy = "Access")]
-        public async Task<IActionResult> UserProducts()
+        public async Task<IActionResult> UserProducts([FromQuery] ProductFilterDto filters)
         {
             try
             {
                 var user = await _userManager.GetUserAsync(User);
-                var products = await _productService.GetUserProducts(user.Id);
+                var products = await _productService.GetUserProducts(user.Id, filters);
                 GeneralResponse<List<ProductGeneralDto>> response = new GeneralResponse<List<ProductGeneralDto>> { status = DataAccess.Enums.ResponseStatusEnum.Success, data =products };
                 return Ok(response);
             }
@@ -41,7 +41,7 @@ namespace DotnetPractice.Presentation.Controllers.v1
         }
         [HttpPost("/product")]
         [Authorize(Policy = "Access")]
-        public async Task<IActionResult> Create([FromBody]CreateProductDto createProduct)
+        public async Task<IActionResult> Create([FromForm]CreateProductDto createProduct)
         {
             try
             {
@@ -58,7 +58,7 @@ namespace DotnetPractice.Presentation.Controllers.v1
 
         [HttpDelete("/product/{id}")]
         [Authorize(Policy = "Access")]
-        public async Task<IActionResult> Create(string Id)
+        public async Task<IActionResult> Delete(string Id)
         {
             try
             {
@@ -75,7 +75,7 @@ namespace DotnetPractice.Presentation.Controllers.v1
 
         [HttpPut("/product/{id}")]
         [Authorize(Policy = "Access")]
-        public async Task<IActionResult> Create([FromBody]UpdateProductDto updateProduct,string Id)
+        public async Task<IActionResult> Update([FromForm]UpdateProductDto updateProduct,string Id)
         {
             try
             {

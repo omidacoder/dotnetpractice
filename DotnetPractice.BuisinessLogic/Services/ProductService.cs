@@ -18,17 +18,33 @@ namespace DotnetPractice.BuisinessLogic.Services
     {
         private readonly IProductRepo _productRepo;
         private readonly IMapper _mapper;
-        public ProductService(PostgresDbContext db, IMapper mapper) {
+        private readonly string _targetPhotosPath;
+        public ProductService(PostgresDbContext db, IMapper mapper)
+        {
             _productRepo = new ProductRepo(db);
             _mapper = mapper;
+            _targetPhotosPath = "media/products";
         }
         public async Task<bool> CreateAsync(CreateProductDto productDto, string userId)
         {
             var product = _mapper.Map<Product>(productDto);
             product.UserId= userId;
             product.Id= Guid.NewGuid().ToString();
+            if (productDto.photo != null && productDto.photo.Length != 0)
+            {
+                var extension = Path.GetExtension(productDto.photo.FileName);
+                var filePath = Path.Combine(_targetPhotosPath, product.Id + "." + extension);
+
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await productDto.photo.CopyToAsync(stream);
+                }
+                product.photoUrl = _targetPhotosPath + "/" + product.Id + "." + extension;
+            }
+            
             await _productRepo.Add(product);
             return true;
+            
         }
 
         public async Task<bool> DeleteAsync(string Id, string userId)
@@ -66,9 +82,9 @@ namespace DotnetPractice.BuisinessLogic.Services
 
         }
 
-        public async Task<List<ProductGeneralDto>> GetUserProducts(string userId)
+        public async Task<List<ProductGeneralDto>> GetUserProducts(string userId, ProductFilterDto filters)
         {
-            var products = await _productRepo.GetUserProducts(userId);
+            var products = await _productRepo.GetUserProducts(userId,filters.name, filters.description, filters.minPrice, filters.maxPrice);
             return _mapper.Map<List<ProductGeneralDto>>(products);
         }
 
@@ -83,6 +99,17 @@ namespace DotnetPractice.BuisinessLogic.Services
             if (product.UserId != userId)
             {
                 throw new Exception("شما به این محصول دسترسی ندارید");
+            }
+            if (productDto.photo != null && productDto.photo.Length != 0)
+            {
+                var extension = Path.GetExtension(productDto.photo.FileName);
+                var filePath = Path.Combine(_targetPhotosPath, product.Id + extension);
+
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await productDto.photo.CopyToAsync(stream);
+                }
+                product.photoUrl = _targetPhotosPath + "/" + product.Id + extension;
             }
             await _productRepo.Update(Id,_mapper.Map<Product>(productDto));
             return true;

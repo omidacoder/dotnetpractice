@@ -162,3 +162,4 @@ C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\net9.0\DotnetPractice.Presentation.sourcelink.json

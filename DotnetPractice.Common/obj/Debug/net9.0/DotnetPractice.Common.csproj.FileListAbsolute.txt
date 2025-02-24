@@ -13,3 +13,4 @@ C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\refint\DotnetPractice.Common.dll
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPractice.Common.pdb
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\ref\DotnetPractice.Common.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Common\obj\Debug\net9.0\DotnetPractice.Common.sourcelink.json

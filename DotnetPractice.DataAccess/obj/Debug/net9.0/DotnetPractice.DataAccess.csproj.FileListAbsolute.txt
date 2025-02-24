@@ -12,3 +12,4 @@ C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\ne
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.pdb
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.genruntimeconfig.cache
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\ref\DotnetPractice.DataAccess.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.DataAccess\obj\Debug\net9.0\DotnetPractice.DataAccess.sourcelink.json

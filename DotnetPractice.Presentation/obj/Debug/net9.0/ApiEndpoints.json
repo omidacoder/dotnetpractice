@@ -16,16 +16,16 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "DotnetPractice.Presentation.Controllers.v1.ProductController",
-    "Method": "Create",
-    "RelativePath": "product",
-    "HttpMethod": "POST",
+    "ContainingType": "DotnetPractice.Presentation.Controllers.v1.MediaController",
+    "Method": "DownloadMedia",
+    "RelativePath": "media/products/{fileName}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "createProduct",
-        "Type": "DotnetPractice.Common.Dtos.Product.CreateProductDto",
+        "Name": "fileName",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -34,6 +34,42 @@
   {
     "ContainingType": "DotnetPractice.Presentation.Controllers.v1.ProductController",
     "Method": "Create",
+    "RelativePath": "product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AvailableCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "photo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DotnetPractice.Presentation.Controllers.v1.ProductController",
+    "Method": "Delete",
     "RelativePath": "product/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
@@ -49,16 +85,36 @@
   },
   {
     "ContainingType": "DotnetPractice.Presentation.Controllers.v1.ProductController",
-    "Method": "Create",
+    "Method": "Update",
     "RelativePath": "product/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "updateProduct",
-        "Type": "DotnetPractice.Common.Dtos.Product.UpdateProductDto",
-        "IsRequired": true
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AvailableCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "photo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
       },
       {
         "Name": "Id",
@@ -176,7 +232,28 @@
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "minPrice",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxPrice",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {

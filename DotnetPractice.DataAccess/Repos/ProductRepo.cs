@@ -60,9 +60,19 @@ namespace DotnetPractice.DataAccess.Repos
             await _db.SaveChangesAsync();
             return true;
         }
-        public async Task<IEnumerable<Product>> GetUserProducts(string UserId) => await _db.Products.Where(p => p.UserId == UserId).OrderByDescending(p => p.CreatedAt).ToListAsync();
+        public async Task<IEnumerable<Product>> GetUserProducts(string UserId, string? filterName, string? filterDescriptions, double? filterMinPrice, double? filterMaxPrice)
+        {
+           var query = _db.Products.AsQueryable();
+           if (filterName != null) query = query.Where(p => p.Name != null ? p.Name.Contains(filterName) : false);
+           if (filterDescriptions != null) query = query.Where(p => p.Description != null ? p.Description.Contains(filterDescriptions) : false);
+           if (filterMinPrice != null) query = query.Where(p => p.Price > filterMinPrice);
+           if (filterMaxPrice != null) query = query.Where(p => p.Price < filterMaxPrice);
+           query = query.Where(p => p.UserId == UserId).OrderByDescending(p => p.CreatedAt);
+           return await query.ToListAsync();
+        }
         
 
         public async Task<Product> GetDetails(string Id) => await _db.Products.Where(p => p.Id == Id).Include(p => p.User).FirstOrDefaultAsync();
+
     }
 }

@@ -13,6 +13,7 @@ namespace DotnetPractice.Common.Dtos.Product
         public required string Name { get; set; }
         public string? Description { get; set; }
         public required int AvailableCount { get; set; }
+        public required double Price { get; set; }
         public string? photoUrl { get; set; }
         public DateTime? CreatedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }

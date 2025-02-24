@@ -15,3 +15,4 @@ C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debu
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\refint\DotnetPractice.BuisinessLogic.dll
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPractice.BuisinessLogic.pdb
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\ref\DotnetPractice.BuisinessLogic.dll
+C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.BuisinessLogic\obj\Debug\net9.0\DotnetPractice.BuisinessLogic.sourcelink.json

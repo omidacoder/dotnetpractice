@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -18,6 +19,12 @@ namespace DotnetPractice.Common.Dtos.Product
         [Display(Name = "تعداد موجود در انبار")]
         [Range(0, 100000, ErrorMessage = "{0} باید عددی بزرگتر از 0 و کوچکتر از 100000 باشد")]
         public required int AvailableCount { get; set; }
+        [Display(Name = "قیمت")]
+        [Range(0, 100000000, ErrorMessage = "{0} باید عددی بزرگتر از 0 و کوچکتر از 100000000 باشد")]
+        public required double Price { get; set; }
+        [Display(Name = "تصویر")]
+        public IFormFile? photo { get; set; }
+
         //[Display(Name = "آدرس تصویر")]
         //[Url(ErrorMessage = "{0} باید آدرس معتبر باشد")]
         //public string? photoUrl { get; set; }

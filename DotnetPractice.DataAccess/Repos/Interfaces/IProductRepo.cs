@@ -9,7 +9,7 @@ namespace DotnetPractice.DataAccess.Repos.Interfaces
 {
     public interface IProductRepo : IRepo<Product>
     {
-        Task<IEnumerable<Product>> GetUserProducts(string UserId);
+        Task<IEnumerable<Product>> GetUserProducts(string UserId,string? filterName,string? filterDescriptions,double? filterMinPrice, double? filterMaxPrice);
         Task<Product> GetDetails(string Id);
     }
 }

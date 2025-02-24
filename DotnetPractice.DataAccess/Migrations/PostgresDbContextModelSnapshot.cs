@@ -41,6 +41,9 @@ namespace DotnetPractice.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<double>("Price")
+                        .HasColumnType("double precision");
+
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("timestamp without time zone");
 
