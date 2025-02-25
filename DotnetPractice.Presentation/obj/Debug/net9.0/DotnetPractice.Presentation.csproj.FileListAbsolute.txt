@@ -152,7 +152,6 @@ C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DotnetPractice.Presentation.props
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DotnetPractice.Presentation.props
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\net9.0\DotnetPr.A4C8386E.Up2Date
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\net9.0\DotnetPractice.Presentation.dll
 C:\Users\Omid\source\repos\DotnetPractice\DotnetPractice.Presentation\obj\Debug\net9.0\refint\DotnetPractice.Presentation.dll
