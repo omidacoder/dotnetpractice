@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dotnetpractice-link {
+    text-decoration: none;
+    color: black;
+}
+
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.side-menu-item:hover {
+    transition: 0.5s;
+    background-color: #d4e8ff;
+}
+.side-menu-item-dark:hover {
+    transition: 0.5s;
+    background-color: #0C1D3D;
+}
+
+.search-form {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.search-form-dark {
+    background-color: #18181B;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 4px 12px;
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}

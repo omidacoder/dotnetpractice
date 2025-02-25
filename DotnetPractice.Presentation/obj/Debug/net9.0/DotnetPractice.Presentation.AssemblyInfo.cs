@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotnetPractice.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a77483ba9cc19ab75cc2a968439bcc1ec5b7f630")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d8458be1f099634d3c1e092efba81a9b7a85ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotnetPractice.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotnetPractice.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
