@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|solutionrelative:dotnetpractice.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB68E7-AD97-4366-8774-C1A892E0CF55}|DotnetPractice.BuisinessLogic\\DotnetPractice.BuisinessLogic.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.buisinesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB68E7-AD97-4366-8774-C1A892E0CF55}|DotnetPractice.BuisinessLogic\\DotnetPractice.BuisinessLogic.csproj|solutionrelative:dotnetpractice.buisinesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB68E7-AD97-4366-8774-C1A892E0CF55}|DotnetPractice.BuisinessLogic\\DotnetPractice.BuisinessLogic.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.buisinesslogic\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB68E7-AD97-4366-8774-C1A892E0CF55}|DotnetPractice.BuisinessLogic\\DotnetPractice.BuisinessLogic.csproj|solutionrelative:dotnetpractice.buisinesslogic\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.presentation\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|solutionrelative:dotnetpractice.presentation\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.presentation\\controllers\\v1\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|solutionrelative:dotnetpractice.presentation\\controllers\\v1\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,20 +87,8 @@
       "RelativeMoniker": "D:0:0:{3C347CB4-C32F-4B5E-9ED3-64BA5136307C}|DotnetPractice.Common\\DotnetPractice.Common.csproj|solutionrelative:dotnetpractice.common\\dtos\\auth\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98AB68E7-AD97-4366-8774-C1A892E0CF55}|DotnetPractice.BuisinessLogic\\DotnetPractice.BuisinessLogic.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.buisinesslogic\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AB68E7-AD97-4366-8774-C1A892E0CF55}|DotnetPractice.BuisinessLogic\\DotnetPractice.BuisinessLogic.csproj|solutionrelative:dotnetpractice.buisinesslogic\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.presentation\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|solutionrelative:dotnetpractice.presentation\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|solutionrelative:dotnetpractice.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|solutionrelative:dotnetpractice.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80C3F50D-8076-49C4-87DD-D348A0F782E8}|DotnetPractice.Presentation\\DotnetPractice.Presentation.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.presentation\\dotnetpractice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -137,10 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{10741C32-31F2-4CC2-809A-0301B4F5EB13}|DotnetPractice.DataAccess\\DotnetPractice.DataAccess.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.dataaccess\\seeds\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10741C32-31F2-4CC2-809A-0301B4F5EB13}|DotnetPractice.DataAccess\\DotnetPractice.DataAccess.csproj|solutionrelative:dotnetpractice.dataaccess\\seeds\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98AB68E7-AD97-4366-8774-C1A892E0CF55}|DotnetPractice.BuisinessLogic\\DotnetPractice.BuisinessLogic.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.buisinesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AB68E7-AD97-4366-8774-C1A892E0CF55}|DotnetPractice.BuisinessLogic\\DotnetPractice.BuisinessLogic.csproj|solutionrelative:dotnetpractice.buisinesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10741C32-31F2-4CC2-809A-0301B4F5EB13}|DotnetPractice.DataAccess\\DotnetPractice.DataAccess.csproj|c:\\users\\omid\\source\\repos\\dotnetpractice\\dotnetpractice.dataaccess\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -270,11 +270,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MediaController.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\MediaController.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Presentation\\Controllers\\v1\\MediaController.cs",
@@ -287,55 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\UserRepo.cs",
-              "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Repos\\UserRepo.cs",
-              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\UserRepo.cs",
-              "RelativeToolTip": "DotnetPractice.DataAccess\\Repos\\UserRepo.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAawDUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:45:49.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\UserController.cs",
-              "RelativeDocumentMoniker": "DotnetPractice.Presentation\\Controllers\\v1\\UserController.cs",
-              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\UserController.cs",
-              "RelativeToolTip": "DotnetPractice.Presentation\\Controllers\\v1\\UserController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:22:55.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "DotnetPractice.BuisinessLogic\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\ProductService.cs",
-              "RelativeToolTip": "DotnetPractice.BuisinessLogic\\Services\\ProductService.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGkAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:32:10.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\ProductRepo.cs",
-              "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Repos\\ProductRepo.cs",
-              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\ProductRepo.cs",
-              "RelativeToolTip": "DotnetPractice.DataAccess\\Repos\\ProductRepo.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAuwEMAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T11:44:01.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IProductService.cs",
@@ -347,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CreateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\Product\\CreateProductDto.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\Product\\CreateProductDto.cs",
@@ -359,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "UpdateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\Product\\UpdateProductDto.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\Product\\UpdateProductDto.cs",
@@ -372,6 +324,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\AuthController.cs",
+              "RelativeDocumentMoniker": "DotnetPractice.Presentation\\Controllers\\v1\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\AuthController.cs",
+              "RelativeToolTip": "DotnetPractice.Presentation\\Controllers\\v1\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:18:48.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:24:34.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "DotnetPractice.BuisinessLogic\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\AuthService.cs",
+              "RelativeToolTip": "DotnetPractice.BuisinessLogic\\Services\\AuthService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:46:00.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "DotnetPractice.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\appsettings.json",
+              "RelativeToolTip": "DotnetPractice.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T13:03:44.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Repos\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "DotnetPractice.DataAccess\\Repos\\ProductRepo.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwEMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:44:01.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DotnetPractice.BuisinessLogic\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\ProductService.cs",
+              "RelativeToolTip": "DotnetPractice.BuisinessLogic\\Services\\ProductService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:32:10.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\UserController.cs",
+              "RelativeDocumentMoniker": "DotnetPractice.Presentation\\Controllers\\v1\\UserController.cs",
+              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\UserController.cs",
+              "RelativeToolTip": "DotnetPractice.Presentation\\Controllers\\v1\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:22:55.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DotnetPractice.DataAccess\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAawDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:45:49.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\ProductController.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Presentation\\Controllers\\v1\\ProductController.cs",
@@ -383,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ProductFilterDto.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\Product\\ProductFilterDto.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\Product\\ProductFilterDto.cs",
@@ -395,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "IProductRepo.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\Interfaces\\IProductRepo.cs",
               "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Repos\\Interfaces\\IProductRepo.cs",
@@ -407,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ProductDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\Product\\ProductDetailsDto.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\Product\\ProductDetailsDto.cs",
@@ -419,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Models\\Product.cs",
               "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Models\\Product.cs",
@@ -431,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "PostgresDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\PostgresDbContext.cs",
               "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\PostgresDbContext.cs",
@@ -443,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Presentation\\Program.cs",
@@ -467,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ProductGeneralDto.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\Product\\ProductGeneralDto.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\Product\\ProductGeneralDto.cs",
@@ -479,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "DotnetPractice.http",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\DotnetPractice.http",
               "RelativeDocumentMoniker": "DotnetPractice.Presentation\\DotnetPractice.http",
@@ -491,31 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\AuthController.cs",
-              "RelativeDocumentMoniker": "DotnetPractice.Presentation\\Controllers\\v1\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Controllers\\v1\\AuthController.cs",
-              "RelativeToolTip": "DotnetPractice.Presentation\\Controllers\\v1\\AuthController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAawBkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:18:48.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:24:34.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "DotnetPractice.Presentation\\Properties\\launchSettings.json",
@@ -527,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "TokenResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\Auth\\TokenResponseDto.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\Auth\\TokenResponseDto.cs",
@@ -539,19 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "DotnetPractice.Presentation\\appsettings.json",
-              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Presentation\\appsettings.json",
-              "RelativeToolTip": "DotnetPractice.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T13:03:44.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Utils\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Utils\\AutoMapperProfile.cs",
@@ -563,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UserDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\User\\UserDetailsDto.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\User\\UserDetailsDto.cs",
@@ -575,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "IUserRepo.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\Interfaces\\IUserRepo.cs",
               "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Repos\\Interfaces\\IUserRepo.cs",
@@ -587,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "DotnetPractice.BuisinessLogic\\Services\\UserService.cs",
@@ -599,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "UpdateUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\User\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\User\\UpdateUserDto.cs",
@@ -611,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "UserCheckIdFilter.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Filters\\UserCheckIdFilter.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Filters\\UserCheckIdFilter.cs",
@@ -635,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "IRepo.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Repos\\Interfaces\\IRepo.cs",
               "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Repos\\Interfaces\\IRepo.cs",
@@ -647,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Models\\User.cs",
               "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Models\\User.cs",
@@ -659,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "DotnetPractice.BuisinessLogic\\Services\\Interfaces\\IUserService.cs",
@@ -671,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\User\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\User\\CreateUserDto.cs",
@@ -683,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "GeneralResponse.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.Common\\Dtos\\GeneralResponse.cs",
               "RelativeDocumentMoniker": "DotnetPractice.Common\\Dtos\\GeneralResponse.cs",
@@ -695,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Seeder.cs",
               "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.DataAccess\\Seeds\\Seeder.cs",
               "RelativeDocumentMoniker": "DotnetPractice.DataAccess\\Seeds\\Seeder.cs",
@@ -716,18 +732,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T13:08:44.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "DotnetPractice.BuisinessLogic\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Omid\\source\\repos\\DotnetPractice\\DotnetPractice.BuisinessLogic\\Services\\AuthService.cs",
-              "RelativeToolTip": "DotnetPractice.BuisinessLogic\\Services\\AuthService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAABBwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:46:00.613Z"
             },
             {
               "$type": "Document",

@@ -66,7 +66,7 @@ export default function LoginForm() {
   return (
     <>
       <div className="w-full grid grid-cols-12 gap-2">
-        <div className="md:col-start-4 lg:col-start-4 xl:col-start-5 2xl-col-start-4 col-span-12 sm:col-span-12 md:col-span-6 lg:col-span-6 xl:col-span-4 2xl:col-span-4">
+        <div className="md:col-start-4 lg:col-start-4 xl:col-start-5 col-span-12 sm:col-span-12 md:col-span-6 lg:col-span-6 xl:col-span-4">
           <Card>
             <CardHeader className="justify-center primary_color">
               <h5>Login Form</h5>
